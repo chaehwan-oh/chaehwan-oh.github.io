@@ -1,7 +1,8 @@
 # Site settings
 title: Chaehwan's Blog
 SEOTitle: 오채환 | Chaehwan's Blog
-header-img: img/home-bg.jpg
+# header-img: img/home-bg.jpg
+header-img: img/data-has-better-idea.jpeg
 email: coghks56@gmail.com
 description: ""
 keyword: "Data Science"
