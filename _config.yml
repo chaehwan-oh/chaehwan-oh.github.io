@@ -1,11 +1,11 @@
 # Site settings
-title: DATA가 MONEY
-SEOTitle: 데이터가 머니 | DATA가 MONEY
+title: 데이터가 머니
+SEOTitle: 오채환 | 데이터가 머니
 # header-img: img/home-bg.jpg
 header-img: img/home-bg-o.jpg
 email: coghks56@gmail.com
 description: ""
-keyword: "Data Science", "Data", "Data analysis"
+keyword: "Data Science"
 url: "https://chaehwan-oh.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
