@@ -1,5 +1,5 @@
 # Site settings
-title: DATA IS MONEY
+title: DATA가 MONEY
 SEOTitle: 데이터가 머니 | DATA가 MONEY
 # header-img: img/home-bg.jpg
 header-img: img/home-bg-o.jpg
@@ -60,7 +60,7 @@ kramdown:
 
 
 # Disqus settings
-# disqus_username: hux
+disqus_username: chaehwan56
 
 # Netease settings
 netease_comment: false
