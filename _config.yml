@@ -61,6 +61,7 @@ kramdown:
 
 # Disqus settings
 disqus_username: chaehwan-oh-github-io
+# 참고) https://dongsik93.github.io/til/2019/07/29/til-etc-jekyll-disqus/
 
 # Netease settings
 netease_comment: false
