@@ -1,7 +1,7 @@
 ---
 layout: post
 subclass: post
-title: "Code Complete 정리(1)"
+title: "Code Complete 정리 (1)"
 date: 2018-08-12 00:00:00
 tags: [programming, must-read]
 excerpt: "programming"

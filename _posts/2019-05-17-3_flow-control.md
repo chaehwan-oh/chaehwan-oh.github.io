@@ -1,9 +1,9 @@
 ---
 layout: post
 subclass: post
-title: "파이썬 프로그래밍 입문(3) 흐름제어"
+title: "입문자를 위한 파이썬 프로그래밍 (3) 흐름제어"
 date: 2019-05-17 00:00:03
-tags: [python-programming, flow-control]
+tags: [python-programming]
 excerpt: "파이썬 프로그래밍 입문, 흐름제어에 대한 설명입니다."
 disqus: True
 ---

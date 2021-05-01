@@ -1,9 +1,9 @@
 ---
 layout: post
 subclass: post
-title: "파이썬 프로그래밍 입문(13) 시간 관리, 작업 예약, 다른 프로그램 실행"
+title: "입문자를 위한 파이썬 프로그래밍 (13) 시간 관리, 작업 예약, 다른 프로그램 실행"
 date: 2019-05-17 00:00:13
-tags: [python-programming, multithreading]
+tags: [python-programming]
 excerpt: "파이썬 프로그래밍 입문, mutlithreading에 대한 설명입니다."
 disqus: True
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
 subclass: post
-title: "파이썬 프로그래밍 입문(1) 파이썬 개발환경 세팅하기"
+title: "입문자를 위한 파이썬 프로그래밍 (1) 파이썬 개발환경 세팅하기"
 date: 2019-05-17 00:00:01
-tags: [python-programming, environment-setting]
+tags: [python-programming]
 excerpt: "파이썬 개발환경 세팅에 대한 설명입니다."
 disqus: True
 ---

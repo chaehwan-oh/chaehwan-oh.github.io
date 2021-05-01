@@ -1,9 +1,9 @@
 ---
 layout: post
 subclass: post
-title: "파이썬 프로그래밍 입문(12) machine readable data"
+title: "입문자를 위한 파이썬 프로그래밍 (12) machine readable data"
 date: 2019-05-17 00:00:12
-tags: [python-programming, machine readable data]
+tags: [python-programming]
 excerpt: "파이썬 프로그래밍 입문, machine readable data에 대한 설명입니다."
 disqus: True
 ---

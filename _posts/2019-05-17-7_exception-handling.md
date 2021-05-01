@@ -1,9 +1,9 @@
 ---
 layout: post
 subclass: post
-title: "파이썬 프로그래밍 입문(7) 예외 처리"
+title: "입문자를 위한 파이썬 프로그래밍 (7) 예외 처리"
 date: 2019-05-17 00:00:07
-tags: [python-programming, exception handling]
+tags: [python-programming]
 excerpt: "파이썬 프로그래밍 입문, 예외 처리에 대한 설명입니다."
 disqus: True
 ---
