@@ -80,7 +80,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Data Scientist"
+sidebar-about-description: "'데이터는 차트가 아니라 돈이 되어야 한다.'는 말처럼 데이터는 돈이 되어야 합니다. 데이터를 돈으로 바꿀 수 있는 사람으로 성장하기 위해 학습한 내용 정리하고, 공유합니다."
 # sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
