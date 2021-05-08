@@ -8,6 +8,8 @@ excerpt: "programming"
 disqus: True
 ---
 
+※ 스티브 맥코넬의 CODE COMPLETE를 읽고 정리한 글입니다.
+
 # CODE COMPLETE 5 부 코드 향상
 
 ## 22 장 개발자 테스트

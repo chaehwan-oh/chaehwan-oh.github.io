@@ -8,6 +8,8 @@ excerpt: "programming"
 disqus: True
 ---
 
+※ 스티브 맥코넬의 CODE COMPLETE를 읽고 정리한 글입니다.
+
 # CODE COMPLETE 7 부 소프트웨어 장인정신
 
 ## 31 장 레이아웃과 스타일

@@ -8,6 +8,8 @@ excerpt: "programming"
 disqus: True
 ---
 
+※ 스티브 맥코넬의 CODE COMPLETE를 읽고 정리한 글입니다.
+
 # CODE COMPLETE 1 부 기초 확립
 
 ## 선행조건 - 준비작업의 중요성

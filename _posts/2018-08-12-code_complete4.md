@@ -8,6 +8,8 @@ excerpt: "programming"
 disqus: True
 ---
 
+※ 스티브 맥코넬의 CODE COMPLETE를 읽고 정리한 글입니다.
+
 # CODE COMPLETE 4 부 명령문
 
 ## 14 장 순차적 코드 구성하기

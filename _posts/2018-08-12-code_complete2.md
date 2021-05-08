@@ -8,6 +8,8 @@ excerpt: "programming"
 disqus: True
 ---
 
+※ 스티브 맥코넬의 CODE COMPLETE를 읽고 정리한 글입니다.
+
 # CODE COMPLETE 2 부 고품질 코드 작성
 
 ## 5 장 구현 설계
